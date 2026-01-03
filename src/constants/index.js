@@ -63,10 +63,10 @@ export const experiences = [
     iconBg: "#161329",
     date: "2023 - 2025",
     points: [
-      "Developing full‑stack web applications using React, Node.js, Express, and MongoDB, focusing on clean architecture and scalable design.",
-      "Building responsive, modern user interfaces with React, Tailwind CSS, and component‑driven development.",
-      "Designing and implementing RESTful APIs, authentication systems, and secure backend logic.",
-      "Deploying applications using modern DevOps workflows, including CI/CD pipelines, GitHub Pages, and cloud hosting platforms.",
+      "Developing scalable full‑stack applications with React, Node.js, Express, and MongoDB.",
+      "Creating responsive, modern UIs using React, Tailwind CSS, and component‑based architecture.",
+      "Implementing secure backend logic, RESTful APIs, and authentication workflows.",
+      "Deploying applications through Git‑based workflows, CI/CD pipelines, and cloud hosting platforms.",
 
     ],
   },
@@ -77,9 +77,9 @@ export const experiences = [
     iconBg: "#161329",
     date: "2023 - 2026",
     points: [
-      "Delivered full‑stack solutions for international clients on Upwork and Fiverr, managing both frontend and backend development independently.", 
+      "Delivered full‑stack solutions for international clients on Upwork and Fiverr, handling both frontend and backend development independently.",
       "Built fast, responsive interfaces using React, JavaScript, and modern CSS frameworks like Tailwind.", 
-      "Developed secure backend features with Node.js  and Express, including REST APIs, authentication, and database operations with MongoDB and SQL",
+      "Implemented secure backend functionality with Node.js  and Express, including REST APIs, authentication, and database operations using MongoDB and SQL.",
       "Collaborated remotely with clients and deployed production‑ready applications using Git workflows, CI/CD, and cloud hosting.",
     ],
   },
@@ -90,10 +90,11 @@ export const experiences = [
     iconBg: "#161329",
     date: "2020 - 2026",
     points: [
-      "Engineered end‑to‑end web applications using React, Vite, Node.js, and MongoDB, ensuring high performance and maintainability.", "Integrated third‑party APIs and built custom RESTful endpoints to support dynamic, data‑driven features.", "Implemented reusable UI components, state management, and optimized rendering for smooth user experiences.", "Managed deployments and version control using Git, GitHub, and modern cloud‑based workflows.",
-      "Integrated third‑party APIs and built custom RESTful endpoints to support dynamic, data‑driven features.",
-      "Implemented reusable UI components, state management, and optimized rendering for smooth user experiences.",
-      "Managed deployments and version control using Git, GitHub, and modern cloud‑based workflows.",
+      "Built full‑stack apps with React, Vite, Node.js, and MongoDB.", 
+      "Integrated APIs and created custom REST endpoints.",
+      "Developed reusable UI components and optimized performance.",
+      "Handled deployments using Git, GitHub, and cloud workflows.",
+  
     ],
   },
   {
