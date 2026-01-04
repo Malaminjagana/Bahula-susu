@@ -115,7 +115,7 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "Terminal Like Portfolio Website",
+    name: "Terminal Portfolio",
     description:
       "A terminal themed portfolio website that allows users to type into the terminal and use commands like a real terminal.",
     tags: [
@@ -123,8 +123,8 @@ export const projects = [
       { name: "css", color: "green-text-gradient" },
       { name: "Javascript", color: "pink-text-gradient" },
     ],
-    image: termpw, // zip cod name old profolioi have to 
-    source_code_link: "https://malaminjagana.github.io/Bahula-susu/",
+    image: termpw,  
+    source_code_link: "https://malaminjagana.github.io/Terminal-portfolio/",
   },
   {
     name: "Mental Health Fitness Tracker",// jus add some semilar roject

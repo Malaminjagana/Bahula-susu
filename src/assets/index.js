@@ -11,7 +11,7 @@ import java from "./tech-stack/java.png";
 
 // Import project images
 import weatherpedia from "./projects/WeatherPedia.png";
-import termpw from "./projects/termpw.png";
+import termpw from "./projects/termpw.webp";
 import payloadmaster from "./projects/payloadmaster.png";
 import mhft from "./projects/mhft.png";
 import sketcher from "./projects/sketcher.jpeg";
