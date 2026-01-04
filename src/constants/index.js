@@ -115,19 +115,6 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "WeatherPedia",
-    description:
-      "Web-based platform that allows users to access weather information for their location by entering it in the search field",
-    tags: [
-      { name: "Javascript", color: "blue-text-gradient" },
-      { name: "HTML", color: "green-text-gradient" },
-      { name: "bootstrap 5.3.0", color: "pink-text-gradient" },
-      { name: "Weather API", color: "yellow-text-gradient" },
-    ],
-    image: weatherpedia,
-    source_code_link: "https://malaminjagana.github.io/weather-app/",
-  },
-  {
     name: "Terminal Like Portfolio Website",
     description:
       "A terminal themed portfolio website that allows users to type into the terminal and use commands like a real terminal.",
@@ -136,11 +123,11 @@ export const projects = [
       { name: "css", color: "green-text-gradient" },
       { name: "Javascript", color: "pink-text-gradient" },
     ],
-    image: termpw,
-    source_code_link: "https://github.com/lohitkolluri/lohitkolluri.github.io",
+    image: termpw, // zip cod name old profolioi have to 
+    source_code_link: "https://malaminjagana.github.io/Bahula-susu/",
   },
   {
-    name: "Mental Health Fitness Tracker",
+    name: "Mental Health Fitness Tracker",// jus add some semilar roject
     description:
       "ML model that utilizes regression techniques to provide insights into mental health and make predictions based on the available data.",
     tags: [
@@ -148,12 +135,26 @@ export const projects = [
       { name: "Jupyter Notebook", color: "green-text-gradient" },
       { name: "Regression Algorithms", color: "pink-text-gradient" },
     ],
-    image: mhft,
+    image: mhft, 
     source_code_link:
-      "https://github.com/lohitkolluri/mental_health_fitness_tracker",
+    "https://malaminjagana.github.io/Malaminjagana-portfolio/",
   },
   {
-    name: "PayloadMaster",
+    name: "WeatherPedia",
+    description:
+      "Web-based platform that allows users to access weather information for their location by entering it in the search field",
+    tags: [
+      { name: "Javascript", color: "blue-text-gradient" },
+      { name: "HTML", color: "green-text-gradient" },
+      { name: "bootstrap", color: "pink-text-gradient" },
+      { name: "Weather API", color: "pink-text-gradient" },
+     
+    ],
+    image: weatherpedia,
+    source_code_link: "https://malaminjagana.github.io/weather-app/",
+  },
+  {
+    name: "PayloadMaster",// ad  semiler project
     description:
       "Tool to automate payload creation using the Metasploit framework",
     tags: [
@@ -163,7 +164,7 @@ export const projects = [
     source_code_link: "https://github.com/lohitkolluri/PayloadMaster",
   },
   {
-    name: "CompileVortex",
+    name: "CompileVortex",// add semiler 
     description:
       "Tool to automate payload creation using the Metasploit framework",
     tags: [
@@ -172,19 +173,20 @@ export const projects = [
       { name: "HTML", color: "pink-text-gradient" },
     ],
     image: CompileVortex,
-    source_code_link: "https://github.com/lohitkolluri/CompileVortex",
+    source_code_link: "https://malaminjagana.github.io/bahulagame-shop/",
   },
   {
-    name: "Sketcher",
+    name: "Karate club Wedding ",
     description:
-      "Convert an input image to a pencil sketch using OpenCV and Matplotlib libraries.",
+      "Build and customize dynamic websites using WordPress, modern themes, and advanced plugin integrations.",
     tags: [
-      { name: "OpenCV", color: "blue-text-gradient" },
-      { name: "Matplotlib", color: "green-text-gradient" },
-      { name: "Python", color: "pink-text-gradient" },
+      { name: "HTML", color: "blue-text-gradient" },
+      { name: "Css", color: "green-text-gradient" },
+      { name: "Javascript", color: "pink-text-gradient" },
+      { name: "WordPress", color: "pink-text-gradient" },
     ],
 
     image: sketcher,
-    source_code_link: "https://github.com/lohitkolluri/Image_to_Pencil_Sketch_App",
+    source_code_link: "https://karate-club-wedding.de/",
   },
 ];

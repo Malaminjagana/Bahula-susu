@@ -14,7 +14,7 @@ import weatherpedia from "./projects/WeatherPedia.png";
 import termpw from "./projects/termpw.png";
 import payloadmaster from "./projects/payloadmaster.png";
 import mhft from "./projects/mhft.png";
-import sketcher from "./projects/sketcher.png";
+import sketcher from "./projects/sketcher.jpeg";
 import CompileVortex from "./projects/CompileVortex.png";
 
 // Import tech logos
