@@ -61,7 +61,7 @@ const Navbar = () => {
               window.scrollTo(0, 0);
             }}
           >
-            <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
+            <img src={logo} alt="Malamin Jagana full-stack developer logo" className="w-9 h-9 object-contain" />
             <p className="text-white text-[20px] font-bold cursor-pointer flex">
             MALAMIN&nbsp;
               <span className="sm:block hidden">JAGANA</span>
