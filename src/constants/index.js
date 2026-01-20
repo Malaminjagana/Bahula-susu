@@ -141,6 +141,16 @@ export const projects = [
     "https://github.com/Malaminjagana/Health-tracker",
   },
   {
+    name: "PayloadMaster",// ad  semiler project
+    description:
+    "Tool to automate payload creation using the Metasploit framework",
+    tags: [
+      { name: "shell", color: "blue-text-gradient" },
+    ],
+    image: payloadmaster,
+    source_code_link: "https://github.com/Malaminjagana/Payload-master",
+  },
+  {
     name: "WeatherPedia",
     description:
       "Web-based platform that allows users to access weather information for their location by entering it in the search field",
@@ -155,16 +165,6 @@ export const projects = [
     source_code_link: "https://malaminjagana.github.io/weather-app/",
   },
   {
-    name: "PayloadMaster",// ad  semiler project
-    description:
-      "Tool to automate payload creation using the Metasploit framework",
-    tags: [
-      { name: "shell", color: "blue-text-gradient" },
-    ],
-    image: payloadmaster,
-    source_code_link: "https://github.com/Malaminjagana/Payload-master",
-  },
-  {
     name: "CompileVortex",// add semiler 
     description:
       "Tool to automate payload creation using the Metasploit framework",
@@ -174,7 +174,7 @@ export const projects = [
       { name: "HTML", color: "pink-text-gradient" },
     ],
     image: CompileVortex,
-    source_code_link: "https://malaminjagana.github.io/bahulagame-shop/",
+    source_code_link: "https://github.com/Malaminjagana/Compile-vortex?tab=readme-ov-file",
   },
   {
     name: "Karate club Wedding ",
