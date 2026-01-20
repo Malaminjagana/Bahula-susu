@@ -122,6 +122,7 @@ export const projects = [
       { name: "HTML", color: "blue-text-gradient" },
       { name: "css", color: "green-text-gradient" },
       { name: "Javascript", color: "pink-text-gradient" },
+      { name: "php", color: "pink-text-gradient" },
     ],
     image: termpw,  
     source_code_link: "https://malaminjagana.github.io/Terminal-portfolio/",
@@ -137,7 +138,7 @@ export const projects = [
     ],
     image: mhft, 
     source_code_link:
-    "https://malaminjagana.github.io/Malaminjagana-portfolio/",
+    "https://github.com/Malaminjagana/Health-tracker",
   },
   {
     name: "WeatherPedia",
@@ -161,7 +162,7 @@ export const projects = [
       { name: "shell", color: "blue-text-gradient" },
     ],
     image: payloadmaster,
-    source_code_link: "https://github.com/lohitkolluri/PayloadMaster",
+    source_code_link: "https://github.com/Malaminjagana/Payload-master",
   },
   {
     name: "CompileVortex",// add semiler 
